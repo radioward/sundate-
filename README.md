@@ -3,7 +3,7 @@ A fast CalDAV client, written in Rust.
 
 I noticed there's a lack of clean, non-corporate calendar clients, so I decided to make my own. Currently under development. To be available for Linux, Windows and MacOS.      
 
-## Features
+### Features
 - Color coding different calendars
 - Searching events
 - multiple user accounts
